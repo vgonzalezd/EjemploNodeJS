@@ -1,0 +1,23 @@
+{
+  "nombre": "Diana",
+  "apellido": "Parra",
+  "edad": 22,
+  "genero": "Mujer",
+  "carrera": "Ingenieria Industrial",
+  "estadoCivil": "Casada",
+  "graduada": false,
+  "hijos": [{
+    "nombre": "John",
+    "apellido": "Martinez",
+    "edad": 5
+  }, {
+    "nombre": "Katherin",
+    "apellido": "Otalora",
+    "edad": 8
+  }],
+  "esposo": {
+    "nombre": "Carlos",
+    "apellido": "Jimenez",
+    "edad": 38
+  }
+}
